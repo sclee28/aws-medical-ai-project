@@ -1,0 +1,1 @@
+# aws-medical-ai-project
